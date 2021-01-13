@@ -3,8 +3,7 @@ import AppLoading from 'expo-app-loading';
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
-import Header from './src/header';
-import Home from './src/Home';
+import Routes from './src/Routes';
 
 export default function App() {
 
@@ -18,10 +17,9 @@ export default function App() {
 
 
   return (
-    <View style={styles.container}>  
-      <Header />    
+    <View style={styles.container}>          
       <StatusBar style="auto" />
-      <Home />
+      <Routes />
     </View>
   );
 }
