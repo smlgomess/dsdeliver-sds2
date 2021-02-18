@@ -2,12 +2,16 @@
 
 <h2 id="sobre">Sobre o Projeto</h2>
 
-<div style="text-align: justify">O Projeto é um sistema de pedidos onde é feito os pedidos em um site web, selecionando os produtos e um endereço e confirmando o pedido, e
+O Projeto é um sistema de pedidos onde é feito os pedidos em um site web, selecionando os produtos e um endereço e confirmando o pedido, e
 no app mobile é onde os pedidos aparecem para que sejam entregues. Dentre as funcionalidades estão selecionar o pedido e iniciar a navegação
 através da chamada do google Maps onde a rota de entrega será mostrada e iniciada pelo mesmo. Após a chegada ao destino existe o botão de 
 confirmar entrega que ao selecioná-lo e confirmado, o pedido é retirado da lista de pedidos é marcado como entregue, e então é retornada uma
 mensagem que o pedido foi entregue. A opção cancelar retorna para a tela anterior.</div>
 
+<h2 id="link">Link da aplicação WEB</h2>
+https://sds2-samuelgomes.netlify.app
+obs: talvez o sistema de procura de endereços não funcione no momento em que estiver tentando utiliza-lo devido a inatividade do sistema do mapbox.
+Caso isso venha a acontecer, por favor, informar-me para que eu possa re-ativalo. 
 
 <h2 id="ferramentas">Ferramentas Utilizadas</h2>
 
@@ -40,4 +44,6 @@ mensagem que o pedido foi entregue. A opção cancelar retorna para a tela anter
     <img alt="Logo" src="./imagens/frontmobile3.JPG" width="300px" />    
 </h1>
 
-<hr>
+
+
+
