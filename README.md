@@ -9,7 +9,7 @@ confirmar entrega que ao selecioná-lo e confirmado, o pedido é retirado da lis
 mensagem que o pedido foi entregue. A opção cancelar retorna para a tela anterior.</div>
 
 <h2 id="link">Link da aplicação WEB</h2>
-https://sds2-samuelgomes.netlify.app
+https://sds2-samuelgomes.netlify.app </br>
 obs: talvez o sistema de procura de endereços não funcione no momento em que estiver tentando utiliza-lo devido a inatividade do sistema do mapbox.
 Caso isso venha a acontecer, por favor, informar-me para que eu possa re-ativalo. 
 
